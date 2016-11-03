@@ -1,1 +1,0 @@
-webpackJsonp([1],{0:function(e,n,t){try{(function(){t(164);var e=t(55),n=t(57),a=t(87);n.render(e.createElement(a,{name:"main test test"}),document.querySelector("#main"))}).call(this)}finally{}},164:function(e,n){}});
